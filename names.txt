@@ -1,0 +1,3 @@
+code code works 
+high level lang ---> meachine lang (0101010101010101)
+                     binaries
